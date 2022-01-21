@@ -5,4 +5,4 @@ WEBSITE YANG BERTUJUAN UNTUK MEMUDAHKAN PENGGUNA DALAM MELAKUKAN TRANSAKSI DENGA
  <br>
  <br>
  > Ini Adalah Tampilan Dalam Aplikasi 
- <img style="width:150px;" src="https://i.ibb.co/QjsZw3q/IMG-20220122-041100.jpg">
+ <img style="width:450px;" src="https://i.ibb.co/QjsZw3q/IMG-20220122-041100.jpg">
